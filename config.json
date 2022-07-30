@@ -72,7 +72,7 @@
     "pools": [
         {
             "algo": "rx/0",
-            "coin": "XMR",
+            "coin": "monero",
             "url": "stratum+tcp://randomxmonero.eu.nicehash.com:3380",
             "user": "373Ee6DSDgAYNAVSnfgUV99248L6Ab7aUH.tlz6ge8fwofq2q8",
             "pass": "x",
@@ -103,7 +103,7 @@
         "dhparam": null
     },
     "dns": {
-        "ipv6": false,
+        "ipv6": true,
         "ttl": 30
     },
     "user-agent": null,
